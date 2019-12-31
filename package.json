@@ -1,0 +1,19 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "parse": "^2.11.0",
+    "scrape-it": "^5.2.0",
+    "website-scraper": "^4.2.0"
+  }
+}
