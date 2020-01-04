@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "base64-img": "^1.0.4",
+    "ora": "^4.0.3",
     "parse": "^2.11.0",
     "scrape-it": "^5.2.0",
     "website-scraper": "^4.2.0"
